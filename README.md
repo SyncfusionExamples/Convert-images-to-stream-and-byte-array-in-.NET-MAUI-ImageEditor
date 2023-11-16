@@ -1,4 +1,4 @@
-# Convert-images-to-stream-and-byte-array-in-.NET-MAUI-ImageEditor
+# Convert images to stream and byte array in .NET MAUI ImageEditor
 
 This KB contains a sample of how to convert images to stream and byte array in .NET MAUI ImageEditor (SfImageEditor).
 
